@@ -2,7 +2,7 @@
 
 #### Name: [Joanna]
 #### Student ID: [111753124]
-#### ShinyApps link: [<[https://yourname.shinyapps.io/NCCU_DS2023_hw4_studentID/](https://chingren.shinyapps.io/111753124_hw4/)>]
+#### ShinyApps link: [<https://chingren.shinyapps.io/111753124_hw4/>]
 
 ## Description
 
